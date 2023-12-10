@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as an AI Intern for Corteva Agriscience Pvt Limited.
 - ⚡ I am presently engaged in Out of Distribution Synthetic Data Generation.
 - 🌱 I’m currently learning more about Machine Learning.
-- 👯 I’ve keen interest in UX Design.
+- 👯 I have a profound fascination with UX Design.
 - 💬 Ask me about what books I am reading!
 - 🥅 2024 Goals: Contribute more to Open Source projects.
 - 📫 Contact me at: <br><br>
@@ -15,7 +15,7 @@
 </div>
 
 ### 🧑‍💻 Tools and Technologies: <br><br>
-[![Tools](https://skillicons.dev/icons?i=java,cpp,js,html,css,git,docker,haskell,figma,bash,arduino,mysql&perline=4)](https://skillicons.dev)<br><br>
+[![Tools](https://skillicons.dev/icons?i=java,cpp,js,html,css,git,docker,haskell,figma,bash,arduino,mysql&perline=6)](https://skillicons.dev)<br><br>
 
 ### 📜 Certificates
 
