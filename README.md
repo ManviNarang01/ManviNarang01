@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Manvi Narang</h1>
-<h3 align="center">B.E(Hons) Software Rngineering Student @University of Queensland, Australia.</h3>
+<h3 align="center">B.E(Hons) Software Engineering Student @University of Queensland, Australia.</h3>
 
 - 🔭 I’m currently working as an AI Intern for Corteva Agriscience Pvt Limited.
 - ⚡ I am presently engaged in Out of Distribution Synthetic Data Generation.
