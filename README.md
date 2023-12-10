@@ -27,8 +27,10 @@
 - [Massachusetts Institute of Technology Affiliates Data or Specimens Only Research](https://www.citiprogram.org/verify/?w9737a4ea-1be6-4d49-9c0e-b48032c92d67-58768470)
 - [Accenture Digital Skills: User Experience](https://www.futurelearn.com/certificates/842hjao)<br><br>
 
-<img width="500" height="auto" align="centre" alt="Manvi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=manvinarang01&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-<img width="500" height="auto" align="centre" src="http://github-readme-streak-stats.herokuapp.com?user=manvinarang01&theme=dark&background=000000)](https://git.io/streak-stats"/>
+<div style="display: flex; justify-content: center;">
+    <img width="500" height="250" alt="Manvi's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=manvinarang01&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+    <img width="500" height="250" src="http://github-readme-streak-stats.herokuapp.com?user=manvinarang01&theme=dark&background=000000)](https://git.io/streak-stats"/>
 <img width="500" height="auto" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvinarang01&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)](https://git.io/streak-stats"/>
+</div>
 
 
