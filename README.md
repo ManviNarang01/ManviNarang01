@@ -3,7 +3,6 @@
 
 <img src="https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif" alt="side Image" align="right" width="380" height="380">
 
-- 🔭 I’m currently working as an AI Intern for Corteva Agriscience Pvt Limited.
 - ⚡ I am presently engaged in Out of Distribution Synthetic Data Generation.
 - 🌱 I’m currently learning more about Machine Learning.
 - 👯 I have a profound fascination with UX Design.
