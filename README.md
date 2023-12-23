@@ -1,8 +1,11 @@
-<h1 align="center">Hi There👋, I'm Manvi Narang!</h1>
-<h3 align="center">B.E(Hons) Software Engineering Student @University of Queensland, Australia.</h3>
+<h1 align="center">Hello, fellow programmers!👋</h1>
+I'm Manvi Narang, a final year Software Engineering Student @University of Queensland, Australia!
+
+
 
 <img src="https://media.giphy.com/media/tkEaYA3Kd5WtyXtLqu/giphy.gif" alt="side Image" align="right" width="380" height="380">
 
+- 😈 I recently interned at Corteva Agriscience as Machine Learning and Research Intern.
 - ⚡ I am presently engaged in Out of Distribution Synthetic Data Generation.
 - 🌱 I’m currently learning more about Machine Learning.
 - 👯 I have a profound fascination with UX Design.
@@ -14,6 +17,7 @@
 <div id="badges">
 <img src="https://komarev.com/ghpvc/?username=manvinarang01&style=flat-square&color=blue" alt=""/>
 </div>
+
 
 ### 🧑‍💻 Tools and Technologies: <br><br>
 [![Tools](https://skillicons.dev/icons?i=java,cpp,js,html,css,git,docker,haskell,figma,bash,arduino,mysql&perline=6)](https://skillicons.dev)<br><br>
